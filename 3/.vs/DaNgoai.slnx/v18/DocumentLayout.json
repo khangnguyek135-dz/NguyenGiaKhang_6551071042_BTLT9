@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BT9\\3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96CD74-F240-421F-45A8-FBBEC806782B}|DaNgoai.csproj|d:\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\bt9\\3\\models\\ql_dangoaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B96CD74-F240-421F-45A8-FBBEC806782B}|DaNgoai.csproj|solutionrelative:models\\ql_dangoaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B96CD74-F240-421F-45A8-FBBEC806782B}|DaNgoai.csproj|d:\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\bt9\\3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B96CD74-F240-421F-45A8-FBBEC806782B}|DaNgoai.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QL_DaNgoaiContext.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BT9\\3\\Models\\QL_DaNgoaiContext.cs",
+              "RelativeDocumentMoniker": "Models\\QL_DaNgoaiContext.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BT9\\3\\Models\\QL_DaNgoaiContext.cs",
+              "RelativeToolTip": "Models\\QL_DaNgoaiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T03:47:11.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BT9\\3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BT9\\3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T03:46:27.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
